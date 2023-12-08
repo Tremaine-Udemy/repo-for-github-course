@@ -1,0 +1,16 @@
+# Hello World Practice File
+
+Welcome to the 'repo-for-github-course'!
+
+This file is created for you to practice your GitHub skills. Follow the instructions below:
+
+1. Choose your favorite programming language.
+2. Write a simple "Hello World" program or message in that language.
+3. Add your code or message below the line.
+4. Commit your changes to the repository.
+
+Feel free to be creative and have fun with it!
+
+---
+
+// Add your Hello World message below this line
