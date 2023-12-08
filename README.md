@@ -1,16 +1,23 @@
 # Welcome to the GitHub Practice Repository!
 
-This repository, **repo-for-github-course**, is designed as a learning tool for beginners who are new to Git and GitHub. Here, you'll find resources and simple exercises to help you understand the basics of version control and collaborative software development using GitHub.
+This repository, **repo-for-github-course**, is designed as a learning tool for beginners who are new to Git and GitHub. Here, you'll find resources, exercises, and practice files to help you understand the basics of version control and collaborative software development using GitHub.
+
+## Contents
+
+- `HelloWorld.txt`: Add your hello world message in any programming language or plain text.
+- `BasicScript.py`: A basic script file for you to edit and practice pushing changes.
+- `Contributors.md`: Add your name or GitHub username here as a practice for making changes and pull requests.
+- `Exercises/`: This folder contains various exercises and challenges for you to solve.
 
 ## Getting Started
 
 - **Cloning the Repository:** To get started, clone this repository to your local machine. This will allow you to work on the files and practice using Git commands.
-- **Navigating the Repository:** Explore the various files and directories in this repo to familiarize yourself with its structure.
+- **Navigating the Repository:** Explore the files and directories in this repo to familiarize yourself with its structure.
 
 ## Exercises
 
-- **Edit and Commit:** Open the `HelloWorld.txt` file, add a message, and commit your changes.
-- **Branching:** Create a new branch, make changes to a file, and merge it back into the main branch.
+- **Editing Files:** Try editing `HelloWorld.txt` and `BasicScript.py` to practice making changes.
+- **Branching:** Create a new branch, make changes, and merge it back into the main branch.
 - **Issues and Pull Requests:** Practice opening an issue and then addressing it by creating a pull request.
 
 ## Resources
@@ -22,7 +29,7 @@ This repository, **repo-for-github-course**, is designed as a learning tool for 
 ## How to Contribute
 
 Feel free to contribute to this repository by:
-- Submitting practice exercises.
+- Submitting new exercises or challenges.
 - Improving existing content or documentation.
 - Sharing your feedback and suggestions.
 
